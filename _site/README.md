@@ -3,8 +3,7 @@
 ==================
 
 Data Carpentry workshop
-
-2015 HASTAC Conference at MSU
+2015 National Data Integrity Conference at CSU
 
 
 
