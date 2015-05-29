@@ -7,7 +7,7 @@ root: .
 Authors: Deb Paul  
 Contributors: Tracy Teal
 
----
+--------------------------------------------------
 
 ## Objectives
 
@@ -27,7 +27,7 @@ Contributors: Tracy Teal
  - regular expressions
  - APIs
 
----
+----------------------------------------------------
 
 # Motivations for the Open Refine Lesson
 
