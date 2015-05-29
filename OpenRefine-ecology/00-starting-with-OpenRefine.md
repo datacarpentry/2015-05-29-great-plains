@@ -1,3 +1,8 @@
+---
+layout: lesson
+title: OpenRefine
+root: .
+---
 
 # Data Carpentry Open Refine Demo
 
