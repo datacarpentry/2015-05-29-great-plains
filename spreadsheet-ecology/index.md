@@ -37,7 +37,7 @@ Contributors: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, *
 
 ## Data
 
-Data file for the lesson is: [phm-collection-messy.xls](phm-collection-messy.xls)
+Data file for the lesson is: [survey_data_tabs.xls](survey_data_tabs.xls)
 
 
 <br>
